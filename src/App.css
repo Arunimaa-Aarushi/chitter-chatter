@@ -15,8 +15,8 @@
 }
 
 .ce-active-chat-card {
-  background-color: #cabcdc !important;
-  border: 4px solid #cabcdc !important;
+  background-color: bisque !important;
+  border: 4px solid bisque !important;
   border-radius: 0px !important;
 }
 
@@ -30,12 +30,12 @@
 
 .ce-text-input {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid crimson !important;
 }
 
 .ce-primary-button {
   border-radius: 6px !important;
-  background-color: #7554a0 !important;
+  background-color: crimson !important;
   position: relative;
   bottom: 1px;
 }
@@ -51,12 +51,12 @@
 
 .ce-autocomplete-input {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid crimson !important;
 }
 
 .ce-autocomplete-options {
   border-radius: 6px !important;
-  border: 1px solid #3b2a50 !important;
+  border: 1px solid crimson !important;
   background-color: white !important;
 }
 
@@ -84,13 +84,13 @@
 }
 
 .chat-title {
-  color: #7554a0;
+  color: crimson;
   font-weight: 800;
   font-size: 24px;
 }
 
 .chat-subtitle {
-  color: #7554a0;
+  color: crimson !important;
   font-weight: 600;
   font-size: 12px;
   padding-top: 4px;
@@ -164,7 +164,7 @@
 .message-form {
   overflow: hidden;
   border-radius: 6px;
-  border: 1px solid #3b2a50;
+  border: 1px solid crimson !important;
   background-color: white;
 }
 
@@ -217,7 +217,7 @@
 .wrapper {
   height: 100vh;
   width: 100%;
-  background: rgb(117, 84, 160);
+  background: rgb(204, 164, 255);
   background: linear-gradient(
     90deg,
     rgba(117, 84, 160, 1) 7%,
@@ -236,7 +236,7 @@
 }
 
 .input {
-  color: #333;
+  color: cadetblue;
   font-size: 1.2rem;
   margin: 0 auto;
   padding: 1.5rem 2rem;
